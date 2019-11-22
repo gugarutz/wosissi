@@ -1,2 +1,3 @@
-# wosissi
-wosissi
+---
+permalink: /index.html
+---
